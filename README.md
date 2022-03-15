@@ -1,5 +1,5 @@
 # DEMO_TEST
 To run:
-npm install
-npx playwright test 
+npm install \n
+npx playwright test \n 
 headMode : npx playwright test --headed
